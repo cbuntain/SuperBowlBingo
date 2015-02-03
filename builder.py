@@ -13,8 +13,8 @@ backingImg = 'comp_back.bmp'
 cellW = 85
 cellH = 78
 
-boardOffsetX = 84
-boardOffsetY = 308
+boardOffsetX = 66
+boardOffsetY = 278
 
 dim = 5
 
